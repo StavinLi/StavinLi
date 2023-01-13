@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Stavin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=StavinLi&show_icons=true&theme=tokyonight&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StavinLi&theme=radical)](https://github.com/StavinLi/github-readme-stats)
 
+-->
